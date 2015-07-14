@@ -1,5 +1,5 @@
-(defproject puppetlabs/schema "0.2.0-pre-1"
-  :description "Clojure(Script) library for declarative data description and validation"
+(defproject puppetlabs/schema "0.2.0-pre-2"
+  :description "This is an old, unmaintained fork of prismatic/schema, a \"Clojure(Script) library for declarative data description and validation\".  Changes have been merged upstream, please use the latest version from Prismatic"
   :url "http://github.com/prismatic/schema"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
